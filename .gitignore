@@ -7,6 +7,14 @@
 # Only exists if Bazel was run
 /bazel-out
 
+# Ready to use angular-electron
+/app-builds
+/release
+main.js
+src/**/*.js
+!src/karma.conf.js
+*.js.map
+
 # dependencies
 /node_modules
 
@@ -44,3 +52,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# e2e
+/e2e/*.js
+!/e2e/protractor.conf.js
+/e2e/*.map

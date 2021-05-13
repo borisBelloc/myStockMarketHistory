@@ -6,9 +6,13 @@
 
 
 ### Technos :
-- [ElectronJs](https://www.electronjs.org/)
-    - ElectronJS technology
-        - [electron-builder](https://github.com/electron-userland/electron-builder) : `yarn add electron-builder --dev`
+- [ElectronJs v12](https://www.electronjs.org/)
+- [Angular v11](https://angular.io/)
+- [Electron Builder v22](https://www.electron.build/)
+    - Package [angular-electron](https://github.com/maximegris/angular-electron) : Template with Typescript + SASS + Hot Reload.
+
+
+
     - Packages installed (node_modules) : 
         - [bootstrap](https://www.npmjs.com/package/bootstrap) : `npm i bootstrap`
         - [fontawesome](https://www.npmjs.com/package/@fortawesome/angular-fontawesome) : `npm install --save @fortawesome/fontawesome-free`
