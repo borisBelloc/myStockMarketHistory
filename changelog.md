@@ -20,4 +20,6 @@ tag :
 
 changelog :
 
+2021_05_14 : rename to myStockMarketHistory
+2021_05_14 : make angular-electron package-rdy-to-use working
 2021_05_13 : Create repository

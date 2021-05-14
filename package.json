@@ -1,14 +1,14 @@
 {
-  "name": "stock-market-history",
+  "name": "my-stock-market-history",
   "version": "0.0.0",
-  "description": "Stock Market history",
-  "homepage": "https://github.com/borisBelloc/stockMarketHistory",
+  "description": "My Stock Market history",
+  "homepage": "https://github.com/borisBelloc/myStockMarketHistory",
   "author": {
     "name": "Boris BELLOC",
     "email": "bb.itwork@gmail.com"
   },
   "keywords": [
-    "stock market history",
+    "my stock market history",
     "stock market",
     "bourse",
     "action"
@@ -16,13 +16,13 @@
   "main": "main.js",
   "private": true,
   "build": {
-    "appId": "com.borisbelloc.stockMarketHistory",
-    "productName": "stock-market-history",
+    "appId": "com.borisbelloc.myStockMarketHistory",
+    "productName": "my-stock-market-history",
     "files": [
       "main.js",
-      "dist/stock-market-history"
+      "dist/my-stock-market-history"
     ],
-    "nsis":{
+    "nsis": {
       "oneClick": false,
       "perMachine": true,
       "allowToChangeInstallationDirectory": true

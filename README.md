@@ -1,4 +1,4 @@
-# stockMarketHistory
+# myStockMarketHistory
 
 <p align="center">
   <img height="100" src="https://i.imgur.com/vOjrlin.png" alt="BorisBelloc">                                                  
@@ -11,7 +11,7 @@
 - [Electron Builder v22](https://www.electron.build/)
     - Package [angular-electron](https://github.com/maximegris/angular-electron) : Template with Typescript + SASS + Hot Reload.
 
-
+-----------------------
 
     - Packages installed (node_modules) : 
         - [bootstrap](https://www.npmjs.com/package/bootstrap) : `npm i bootstrap`
@@ -54,9 +54,12 @@
  
 ###### Others infos : 
 
-electron-webpack-quick-start command : 
-- run application in development mode `yarn dev`
-- compile source code and create webpack output `yarn compile`
-- `yarn compile` & create build with electron-builder `yarn dist`
-- `yarn compile` & create unpacked build with electron-builder `yarn dist:dir`
+## Included Commands angular-electron
 
+|Command|Description|
+|--|--|
+|`npm run ng:serve`| Execute the app in the browser |
+|`npm run build`| Build the app. Your built files are in the /dist folder. |
+|`npm run build:prod`| Build the app with Angular aot. Your built files are in the /dist folder. |
+|`npm run electron:local`| Builds your application and start electron
+|`npm run electron:build`| Builds your application and creates an app consumable based on your operating system |
