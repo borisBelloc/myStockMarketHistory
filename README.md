@@ -4,8 +4,10 @@
   <img height="100" src="https://i.imgur.com/vOjrlin.png" alt="BorisBelloc">                                                  
 </p>
 
-TODO: branch 6 here ; did : npm install @ng-bootstrap/ng-bootstrap --save-dev
+TODO: branch 6 here ; 
++ did : npm install @ng-bootstrap/ng-bootstrap --save-dev
 https://github.com/maximegris/angular-electron/issues/606
++ npm i bootstrap --save-dev
 
 ### Technos :
 - [ElectronJs v12](https://www.electronjs.org/)
