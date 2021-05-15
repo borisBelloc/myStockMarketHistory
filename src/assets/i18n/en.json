@@ -2,10 +2,10 @@
   "PAGES": {
       "HOME": {
           "TITLE": "App works !",
-          "GO_TO_DETAIL": "Go to Detail"
+          "GO_TO_PORTFOLIO": "Go to portfolio"
       },
-      "DETAIL": {
-        "TITLE": "Detail page !",
+      "PORTFOLIO": {
+        "TITLE": "Portfolio",
         "BACK_TO_HOME": "Back to Home"
     }
   }
